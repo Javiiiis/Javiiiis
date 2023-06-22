@@ -8,14 +8,14 @@ I'm thrilled to welcome you to my personal GitHub profile!
 
 [![](https://visitcount.itsvg.in/api?id=Javiiiis&icon=5&color=12)](https://visitcount.itsvg.in)
 
----
-
 ## 🌐 Contact me :
+
+📩 You can reach out to me through the provided contact options. Feel free to connect with me on LinkedIn or send me an email via Outlook or Gmail. I look forward to hearing from you!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jav1pm)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jav1pm@outlook.es)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=[javi18pm@gmail.com])
 
-📩 You can reach out to me through the provided contact options. Feel free to connect with me on LinkedIn or send me an email via Outlook or Gmail. I look forward to hearing from you!
 
 
 ---
