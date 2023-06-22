@@ -6,10 +6,6 @@ I'm thrilled to welcome you to my personal GitHub profile!
 
 🎓 I recently graduated in Computer Science & Engineering from the Universidad de Alicante ![Spain](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png "Spain").
 
-🌱 I'm currently learning about Cloud Computing and DevOps, expanding my knowledge and skills in leveraging powerful technologies and methodologies. My focus is on building scalable and efficient solutions and driving innovation in software development and deployment. Committed to continuous learning and growth in these dynamic fields.
-
-🤝 I'm also open to receiving help and guidance from experienced professionals in the field. If you have insights or advice to share, I'm all ears and eager to learn and grow.
-
 [![](https://visitcount.itsvg.in/api?id=Javiiiis&icon=5&color=12)](https://visitcount.itsvg.in)
 
 ---
