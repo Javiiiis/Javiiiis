@@ -16,9 +16,6 @@ I'm thrilled to welcome you to my personal GitHub profile!
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jav1pm@outlook.es)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=[javi18pm@gmail.com])
 
-
-
----
 ## 💻 Tech Stack:
 
 ### Languages:
@@ -61,3 +58,4 @@ I'm thrilled to welcome you to my personal GitHub profile!
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
+---
