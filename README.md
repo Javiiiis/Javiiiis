@@ -62,5 +62,6 @@ I'm thrilled to welcome you to my personal GitHub profile!
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=wordpress&logoColor=white)
 
 ---
