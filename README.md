@@ -4,7 +4,7 @@ I'm thrilled to welcome you to my personal GitHub profile!
 
 - 🚀 Here you will find a variety of projects, including completed university assignments as well as personal projects that I'll be working on in the future. Feel free to explore and discover the work I've done so far.
 
-- 🎓 I recently graduated in Computer Science & Engineering from the Universidad de Alicante ![Spain](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png "Spain").
+- 🎓 I recently graduated in Computer Science & Engineering from the [Universidad de Alicante](https://eps.ua.es/) ![Spain](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png "Spain").
 
 ![](https://komarev.com/ghpvc/?username=Javiiiis&color=684dac)
 <!-- - [![](https://visitcount.itsvg.in/api?id=Javiiiis&icon=5&color=12)](https://visitcount.itsvg.in) -->
