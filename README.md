@@ -41,6 +41,7 @@ I'm thrilled to welcome you to my personal GitHub profile!
 [![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
 [![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 [![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=flat&logo=apache-maven&logoColor=white)](https://maven.apache.org/)
+[![JMeter](https://img.shields.io/badge/JMeter-%23E60000.svg?style=flat&logo=apache-jmeter&logoColor=white)](https://jmeter.apache.org/)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
